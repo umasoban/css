@@ -1,1 +1,14 @@
-h1{text-align: center;}
+h1{color: crimson;}
+h1{background-color: aquamarine;}
+h1{ display: block;
+width: 300px;
+margin-left: auto;
+margin-right: auto;}
+
+input
+{display: block;
+width: 350px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
